@@ -3,7 +3,7 @@ A Xamarin multiplatform app that uses the ServiceStack.Client nuget and demonstr
 
 The backend API that this app connects to is available in this [Git repository](https://github.com/sahil-khanna/server-sent-event-backend)
 
-The details of the source code is explained in this [article](https://medium.com/@sahil__khanna/server-sent-events-adc149cea606)
+The details of the source code is explained in this [article](https://sahil-khanna.medium.com/server-sent-events-adc149cea606)
 
 # Usage
 
